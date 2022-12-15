@@ -1,0 +1,2 @@
+# NoBeaconBeam
+Reduce FPS Drops
