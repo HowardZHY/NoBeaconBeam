@@ -1,0 +1,16 @@
+[
+{
+  "modid": "nobeam",
+  "name": "NoBeaconBeam",
+  "description": "Reduce FPS Drops",
+  "version": "1.8.9",
+  "mcversion": "1.8.9",
+  "url": "https://github.com/HowardZHY",
+  "updateUrl": "",
+  "authorList": ["HowardZHY"],
+  "credits": "https://github.com/HowardZHY",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
