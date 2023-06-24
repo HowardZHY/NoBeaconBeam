@@ -2,10 +2,12 @@
   "required": true,
   "package": "com128.kzf.m.nobeam.mixin",
   "compatibilityLevel": "JAVA_8",
-  "refmap": "betterfpsdist-refmap.json",
+  "refmap": "mixins.nobeam.refmap.json",
   "mixins": [
   ],
   "client": [
+    "MixinTileEntity",
+    "MixinTileEntityBeacon",
     "MixinTileEntityBeaconRenderer"
   ],
   "injectors": {
